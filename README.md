@@ -95,7 +95,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/lzziaini/count.svg
 * <a href='https://www.cnblogs.com/q787011187/p/16375138.html' target='_blank'>VS Code 便捷使用</a>
 * <a href='https://www.cnblogs.com/q787011187/p/17800894.html' target='_blank'>VsCode Settings.Json配置</a>
 
-* <a href='https://www.cnblogs.com/q787011187/' target='_blank'>查看更多</a>
+<a href='https://www.cnblogs.com/q787011187/' target='_blank'>查看更多</a>
 
 </td></tr>
 
