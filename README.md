@@ -1,7 +1,57 @@
-<p align="Left"> 做一只努力的工程师 </p>  
-<p align="Left"> 脚踏实地，仰望星空，拥有丰富的 挖坑 踩坑 填坑 背锅经验 🐶   </p> 
+<div align="center">
 
-### Hi there 👋,I'm Lzziaini.
+  <!-- dynamic typing effect 动态打字效果 -->
+  <div>
+    <a href="https://www.cnblogs.com/q787011187">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);做一只努力的工程师!祝您今天愉快!&center=true&size=27" />
+      <div>&nbsp;</div>
+    </a>
+  </div>
+
+  <!-- knock code pictures 敲代码的图片 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
+    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  </picture>
+
+  <!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
+  
+  <!-- profile logo 个人资料徽标 -->
+  <div>
+    <a href="https://www.cnblogs.com/q787011187"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
+    <a href=""><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
+    <a href=""><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <!-- visitor -->
+    <img src="https://komarev.com/ghpvc/?username=lzziaini&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+    <!-- wakatime -->    
+    <a href="https://wakatime.com/@lzziaini"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
+  </div>
+
+  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/lzziaini/lzziaini/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/lzziaini/lzziaini/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/lzziaini/lzziaini/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  </picture>
+
+</div>
+  
+
+#  🙋 Hello
+
+<table>
+  
+<tr><td>
+
+### 🤺 About Me 👋,I'm Lzziaini.
+
+<p>&emsp;&emsp;嗨，你好，我是lzziaini。热爱编程、摄影、读书、旅行。</p>
+<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
+<p>&emsp;&emsp;脚踏实地，仰望星空，我拥有丰富的 挖坑 踩坑 填坑 背锅经验 🐶   </p> 
+<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
+<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.
@@ -11,14 +61,17 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=lzziaini&show_icons=true&theme=transparent)
 
+
 You are my ![Visitor Count](https://profile-counter.glitch.me/lzziaini/count.svg) visitor,Thank You! 
 
+</td></tr>
 
-
-<table align="Left"><tr>
-<td valign="top" width="33%">
+<tr><td>
   
 ### 主要组织和项目  
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
+
 - [曾经的Demos](https://github.com/orgs/Projects-Demos)	 
 - [曾经的工作项目相关集合](https://github.com/Zachary-ProjectTeam)	 
 - [我的文档](https://github.com/orgs/Zachary-Doc)	 
@@ -27,24 +80,32 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/lzziaini/count.svg
 - [LINGXING助手客户端](https://github.com/lzziaini/LINGXING)	 
    
 [查看更多](https://github.com/lzziaini/)	 
-
 	
-</td>
-<td valign="top" width="33%">
+</td></tr>
+
+<tr><td>
 
 ### 我的博客
-- [C#/Net/NetCore指南](https://www.cnblogs.com/q787011187/p/16141519.html)    
-- [CefSharp中文帮助文档](https://www.cnblogs.com/q787011187/p/18208778)  
-- [整理VS及VSCode中图标提示含义](https://www.cnblogs.com/q787011187/p/16455035.html)
-- [VS Code 便捷使用](https://www.cnblogs.com/q787011187/p/16375138.html)
-- [VsCode Settings.Json配置](https://www.cnblogs.com/q787011187/p/17800894.html)
 
-[查看更多](https://www.cnblogs.com/q787011187/)
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
-</td>
-<td valign="top" width="33%">
+* <a href='https://www.cnblogs.com/q787011187/p/16141519.html' target='_blank'>C#/Net/NetCore指南</a>
+* <a href='https://www.cnblogs.com/q787011187/p/18208778.html' target='_blank'>CefSharp中文帮助文档</a>
+* <a href='https://www.cnblogs.com/q787011187/p/16455035.html' target='_blank'>整理VS及VSCode中图标提示含义</a>
+* <a href='https://www.cnblogs.com/q787011187/p/16375138.html' target='_blank'>VS Code 便捷使用</a>
+* <a href='https://www.cnblogs.com/q787011187/p/17800894.html' target='_blank'>VsCode Settings.Json配置</a>
+
+* <a href='https://www.cnblogs.com/q787011187/' target='_blank'>查看更多</a>
+
+</td></tr>
+
+<tr><td>
+
 
 ### 我的分类  
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
+
 - [C#杂散](https://www.cnblogs.com/q787011187/category/2382436.html)
 - [WPF快速入门系列](https://www.cnblogs.com/q787011187/category/2383349.html)  
 - [死磕Mysql系列](https://www.cnblogs.com/q787011187/category/2382665.html)  
@@ -54,23 +115,44 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/lzziaini/count.svg
 
 [查看更多](https://www.cnblogs.com/q787011187/)
 
-</td>
-</tr></table>
+</td></tr>
+
+<tr><td>
+	
+</table>
+
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<div align="center">
+<!-- run 图片 -->
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" width="250" height="250" />
+
+
+<!-- GitHub Activity Graph GitHub 活动图 -->
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lzziaini&theme=xcode&bg_color=FF000000&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lzziaini&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=lzziaini&theme=xcode&bg_color=FF000000&hide_border=true" />
+      </picture>
+  </tr>
+</table>
+
+
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<div align="center" >
+<!-- just img 图片 -->
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/mb.png" width="250" height="250" />
 
 
 
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<div align="center" >
+<!-- just img 图片 -->
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" width="250" height="250" />
 
-<!--
-**lzziaini/lzziaini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
