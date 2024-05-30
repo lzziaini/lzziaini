@@ -21,10 +21,10 @@ jobs:
           SHOW_LANGUAGE: true # 编码语言
           SHOW_EDITORS: true # 编辑器
           SHOW_SHORT_INFO: true # 用户的简短趣闻信息
-          SHOW_LINES_OF_CODE : "False" # 显示截至日期写入的代码行数
+          SHOW_LINES_OF_CODE : true # 显示截至日期写入的代码行数
           SHOW_PROFILE_VIEWS : "False" # 设置为隐藏配置文件视图
           SHOW_LANGUAGE_PER_REPO : "False"
           SHOW_LOC_CHART : "False"
           SHOW_PROJECTS : "False"
-          SHOW_TOTAL_CODE_TIME : "False"
+          SHOW_TOTAL_CODE_TIME : "False" # 显示总编码时间
           SHOW_TITLE : true
