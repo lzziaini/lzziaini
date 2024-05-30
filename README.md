@@ -174,18 +174,9 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/lzziaini/count.svg
   <tr><td>
 	  
   <!--START_SECTION:waka-->
-  
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-148-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.4%20thousand%20lines%20of%20code-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 23.8 kB Used in GitHub's Storage 
- > 
-> 🏆 27 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -196,21 +187,21 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/lzziaini/count.svg
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                20 commits          ████████░░░░░░░░░░░░░░░░░   33.33 % 
-🌆 Daytime                39 commits          ████████████████░░░░░░░░░   65.00 % 
-🌃 Evening                1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+🌞 Morning                20 commits          ████████░░░░░░░░░░░░░░░░░   32.26 % 
+🌆 Daytime                41 commits          █████████████████░░░░░░░░   66.13 % 
+🌃 Evening                1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Tuesday                  21 commits          █████████░░░░░░░░░░░░░░░░   35.00 % 
-Wednesday                12 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Thursday                 12 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Monday                   8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Tuesday                  21 commits          ████████░░░░░░░░░░░░░░░░░   33.87 % 
+Wednesday                12 commits          █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
+Thursday                 14 commits          ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
 Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-Sunday                   5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Saturday                 2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Sunday                   5 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
 ```
 
 
@@ -225,29 +216,12 @@ No Activity Tracked This Week
 🔥 Editors: 
 No Activity Tracked This Week
 
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
 💻 Operating System: 
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in C#** 
 
-```text
-C#                       7 repos             ███████████████████░░░░░░   77.78 % 
-Go                       1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Python                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/lzziaini/lzziaini/main/assets/bar_graph.png)
-
-
- Last Updated on 30/05/2024 06:56:07 UTC
+ Last Updated on 30/05/2024 07:01:30 UTC
 <!--END_SECTION:waka-->
   </td></tr>
 </table>
