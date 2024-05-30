@@ -172,6 +172,20 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/lzziaini/count.svg
   </td></tr>
 
   <tr><td>
+     <picture>
+  	<source
+	    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=lzziaini&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
+	    media="(prefers-color-scheme: dark)"
+  	/>
+ 	<source
+	    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=lzziaini&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
+	    media="(prefers-color-scheme: light)"
+  	/>
+  	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=lzziaini&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
+     </picture>
+  </td></tr>
+
+  <tr><td>
 	  
   <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.4%20thousand%20lines%20of%20code-blue)
