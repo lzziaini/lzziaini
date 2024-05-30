@@ -59,6 +59,7 @@
 - 📫 How to reach me: 787011187@qq.com
 - 😄 Read more about my CnBlog: [here](https://www.cnblogs.com/q787011187)
 
+<!-- GitHub 数据概览 -->
 ![](https://github-readme-stats.vercel.app/api?username=lzziaini&show_icons=true&theme=transparent)
 
 
@@ -147,6 +148,15 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/lzziaini/count.svg
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/mb.png" width="250" height="250" />
 
+<!-- GitHub 连续贡献数据记录 -->
+<table>
+  <tr>
+    <td>
+	<a href="https://git.io/streak-stats">
+	    <img src="https://streak-stats.demolab.com?user=lzziaini&theme=transparent&hide_border=true&border_radius=5&locale=zh_Hans&card_width=595" alt="GitHub Streak" />
+	</a>
+  </tr>
+</table>
 
 
 <!-- ########################################## 分割 ########################################## -->
@@ -154,5 +164,13 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/lzziaini/count.svg
 <div align="center" >
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" width="250" height="250" />
+
+<!-- GitHub 连续贡献数据记录 -->
+<table>
+  <tr>
+    <td>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzziaini&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+  </tr>
+</table>
 
 
