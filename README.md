@@ -192,9 +192,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/lzziaini/count.svg
 
 **🐱 My GitHub Data** 
 
-> 📦 40.4 kB Used in GitHub's Storage 
- > 
-> 🏆 75 Contributions in the Year 2024
+> 📦 40.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -244,7 +242,7 @@ Windows                  18 hrs 34 mins      ███████████�
 ```
 
 
- Last Updated on 29/07/2024 01:07:35 UTC
+ Last Updated on 30/07/2024 01:05:49 UTC
 <!--END_SECTION:waka-->
   </td></tr>
 </table>
