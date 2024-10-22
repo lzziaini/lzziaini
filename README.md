@@ -194,50 +194,16 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/lzziaini/count.svg
 
 > 📦 53.6 kB Used in GitHub's Storage 
  > 
+> 🏆 77 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 13 Public Repositories 
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                486 commits         ████████░░░░░░░░░░░░░░░░░   33.36 % 
-🌆 Daytime                812 commits         ██████████████░░░░░░░░░░░   55.73 % 
-🌃 Evening                159 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-Tuesday                  322 commits         ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
-Wednesday                363 commits         ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
-Thursday                 269 commits         █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
-Friday                   264 commits         █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
-Saturday                 50 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-Sunday                   9 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 21/10/2024 01:16:34 UTC
+ Last Updated on 22/10/2024 01:15:38 UTC
 <!--END_SECTION:waka-->
   </td></tr>
 </table>
