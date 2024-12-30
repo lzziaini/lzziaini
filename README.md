@@ -194,8 +194,6 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/lzziaini/count.svg
 
 > 📦 53.7 kB Used in GitHub's Storage 
  > 
-> 🏆 77 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 13 Public Repositories 
@@ -239,7 +237,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 29/12/2024 01:21:28 UTC
+ Last Updated on 30/12/2024 01:17:08 UTC
 <!--END_SECTION:waka-->
   </td></tr>
 </table>
