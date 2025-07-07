@@ -192,7 +192,9 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/lzziaini/count.svg
 
 **🐱 My GitHub Data** 
 
-> 📦 53.8 kB Used in GitHub's Storage 
+> 📦 53.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -237,7 +239,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 06/07/2025 01:45:06 UTC
+ Last Updated on 07/07/2025 01:42:59 UTC
 <!--END_SECTION:waka-->
   </td></tr>
 </table>
